@@ -25,7 +25,7 @@ const Home = () => {
           <a href="https://github.com/taufanaziesamudra">
             <GithubIcon />
           </a>
-          <a href="https://api.whatsapp.com/send?phone=6280386588">
+          <a href="https://api.whatsapp.com/send?phone=6281280386588">
             <WhatsAppIcon />
           </a>
         </div>
