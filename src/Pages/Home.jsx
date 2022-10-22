@@ -4,11 +4,13 @@ import EmailIcon from "@mui/icons-material/Email";
 import GithubIcon from "@mui/icons-material/GitHub";
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import "../Styles/Home.css";
+import img from "../Assets/Taufan.jpg";
 
 const Home = () => {
   return (
     <div className="home">
       <div className="about">
+        <img className="image" src={img} alt="logo" />
         <h2> Hi, My Name is Taufan Ajie Samudro</h2>
         <div className="prompt">
           <p>
