@@ -1,7 +1,7 @@
 import Project1 from "../Assets/a.jpg";
 import Project2 from "../Assets/b.jpg";
-// import Project3 from "../Assets/c.jpg";
-// import Project4 from "../Assets/d.jpg";
+import Project3 from "../Assets/c.jpg";
+import Project4 from "../Assets/d.jpg";
 // import Project5 from "../Assets/e.jpeg";
 // import Project6 from "../Assets/f.jpg";
 // import Project7 from "../Assets/g.jpg";
@@ -19,16 +19,16 @@ export const ProjectList = [
     image: Project2,
     skills: "ReactJs, NodeJs, Bulma CSS, JavaScript, MySql",
   },
-  // {
-  //   name: "Project3",
-  //   image: Project3,
-  //   skills: "ReactJs, HTML, CSS, JavaScript",
-  // },
-  // {
-  //   name: "Project4",
-  //   image: Project4,
-  //   skills: "ReactJs, HTML, CSS, JavaScript",
-  // },
+  {
+    name: "Halaman Dashboard",
+    image: Project3,
+    skills: "ReactJs, HTML, CSS, SASS JavaScript",
+  },
+  {
+    name: "E-commerce",
+    image: Project4,
+    skills: "ReactJs, HTML, CSS, Bootstrap JavaScript",
+  },
   // {
   //   name: "Project5",
   //   image: Project5,
